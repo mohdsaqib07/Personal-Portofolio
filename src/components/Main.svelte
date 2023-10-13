@@ -6,8 +6,8 @@
             icon:"fa-solid fa-eye"
         },
         {
-            name:"CodesWear.com",
-            icon:"fa-solid fa-shop"
+            name:"iNotebook",
+            icon:"fa-solid fa-book"
         },
         {
             name:"Mechanical Keyboard Simulator",
@@ -15,9 +15,9 @@
         },
     ]
     let benefits = [
-        {name:"a self taught developer",desc:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum et ex quas porro sit exercitationem deleniti illum culpa quis esse incidunt cum fuga harum ratione aperiam alias corrupti accusamus necessitatibus, qui ipsum repellendus! Aliquam, quae! Doloremque vero, aperiam omnis nobis maiores quod quae accusantium, sunt a quidem accusamus delectus totam."},
-        {name:"a product design & UX finatic",desc:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum et ex quas porro sit exercitationem deleniti illum culpa quis esse incidunt cum fuga harum ratione aperiam alias corrupti accusamus necessitatibus, qui ipsum repellendus! Aliquam, quae! Doloremque vero, aperiam omnis nobis maiores quod quae accusantium, sunt a quidem accusamus delectus totam."},
-        {name:"an excellent communicator",desc:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum et ex quas porro sit exercitationem deleniti illum culpa quis esse incidunt cum fuga harum ratione aperiam alias corrupti accusamus necessitatibus, qui ipsum repellendus! Aliquam, quae! Doloremque vero, aperiam omnis nobis maiores quod quae accusantium, sunt a quidem accusamus delectus totam."},
+        {name:"a self taught developer",desc:"I am a passionate and self-motivated developer who embarked on a journey into the world of programming entirely on my own. Being a self-taught developer, I have honed my skills through dedication, curiosity, and a love for problem-solving. My journey has been marked by countless hours of learning, experimenting, and building, allowing me to explore various programming languages and technologies."},
+        {name:"A good designer",desc:"I am a dedicated designer with a keen eye for aesthetics and a fervent passion for user experience (UX) design. With a strong foundation in design principles and a deep understanding of user behavior, I craft visually stunning and intuitively functional digital experiences. My work is driven by a meticulous attention to detail, creativity, and an unwavering commitment to delivering exceptional user-centric designs."},
+        {name:"Time Management:",desc:"I am a highly organized and results-driven individual with exceptional time management skills. I excel in efficiently prioritizing tasks, optimizing schedules, and meeting deadlines. My ability to manage time effectively allows me to remain focused, productive, and composed even in high-pressure situations."},
     ]
 </script>
 
@@ -30,7 +30,7 @@
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400">favourite tech</span> includes JavaScript (NEXT.JS or SvelteKit) , TailWindCSS , Node.js + Express.js & PostgreSQL or MongoDB , Python and Many More!
             </p>
-            <a href="https://facebook.com/mohdsaqib" target="_blank" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 ">
+            <a href="https://www.linkedin.com/in/mohd-saqib-142a68250/" target="_blank" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 ">
                 <h4 class="relative z-[9]">Get in Touch &rarr;</h4> 
             </a>
         </div>
@@ -53,7 +53,8 @@
                <p>SmartVisCare is heath care app creatd with <strong class='text-violet-400'>Wind32API Tkinter Pystray & Wind10Toast </strong> Tkinter Used to Create all the GUI components while pyinstaller is used to create it's .exe file. </p>
             </Step>
               <Step step={steps[1]} >
-                <p>Codeswear.com is ecommerce store creatd with <strong class='text-violet-400'>NEXT.JS Bcrypt.js Argon2 & MongoDB + TailWindCSS </strong> MongoDB is used for all the storage related operations . </p>
+                <p>iNotebook is  a webapp creatd with <strong class='text-violet-400'>NEXT.JS Bcrypt.js Argon2 & MongoDB + TailWindCSS </strong> MongoDB is used for all the storage related operations . </p>
+                Using this app you can save your notes and read it efficiently.
             </Step>
               <Step step={steps[2]} >
                 <p>This Mechanical Keyboard simulator creatd with <strong class='text-violet-400'>PyGame PyAudio Tkinter & Pystray </strong> PyAudio handles all the mechanical voice related operations.</p>
@@ -66,7 +67,7 @@
        <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">A bit <span class="poppins text-violet-400">about</span> me.</h3>
     </div>
     <p class="mx-auto poppins font-semibold text-lg sm:text-xl md:text-2xl">I am . . .</p>
-    <div class="flex flex-col gap-20 mx-auto w-full max-w-[800px]">
+    <div class="flex flex-col capitalize gap-20 mx-auto w-full max-w-[800px]">
         {#each benefits as benefit,index }
              <div class="flex gap-6 sm:gap-8">
                 <p class="poppins text-4xl sm:text-5xl md:text-6xl text-slate-500 font-semibold">

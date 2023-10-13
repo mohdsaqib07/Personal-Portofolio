@@ -5,13 +5,13 @@
     <div class="flex flex-col justify-center items-center gap-2">
         <p><a href="mailto:mohdsaqib148183@gmail.com" class="pr-2 font-bold">Email</a> mohdsaqib148183@gmail.com </p>
         <p><b class="pr-2">Github</b> 
-           <a href=https://github.com/mohdsaqib07 target="_blank" class='text-violet-400'>mohdsaqib<sup><span class='text-xs scale-75 pl-0.5'>
+           <a href="https://github.com/mohdsaqib07" target="_blank" class='text-violet-400'>mohdsaqib<sup><span class='text-xs scale-75 pl-0.5'>
             <i class='fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]'></i>
            </span></sup>
         </a> 
         </p>
         <p><b class="pr-2">LinkedIn</b> 
-           <a href=https://linkedin.com/mohdsaqib07 target="_blank" class='text-violet-400 cursor-pointer'>mohdsaqib<sup><span class='text-xs scale-75 pl-0.5'>
+           <a href="https://www.linkedin.com/in/mohd-saqib-142a68250/" target="_blank" class='text-violet-400 cursor-pointer'>mohdsaqib<sup><span class='text-xs scale-75 pl-0.5'>
             <i class='fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]'></i>
            </span></sup>
         </a> 
