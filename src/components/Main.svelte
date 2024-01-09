@@ -120,7 +120,7 @@
                     <td><i class="fa-solid fa-check text-green-500" /></td>
                 </tr>
                 <tr class="border-b border-solid border-slate-200">
-                    <td class="border-r border-solid border-white pl-4 pr-8 py-4 font-semibold text-sm whitespace-nowrap">Dedication</td>
+                    <td class="border-r border-solid border-white pl-4 pr-8 py-4 font-semibold text-sm whitespace-nowrap">Time Management</td>
                     <td><i class="fa-solid fa-check text-slate-500" /></td>
                     <td><i class="fa-solid fa-check text-slate-500" /></td>
                     <td><i class="fa-solid fa-xmark text-slate-500" /></td>
