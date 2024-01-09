@@ -3,15 +3,18 @@
     let steps = [
         {
             name:"Smart VisCare",
-            icon:"fa-solid fa-eye"
+            icon:"fa-solid fa-eye",
+            href:"https://github.com/mohdsaqib07/smart-viscare"
         },
         {
             name:"iNotebook",
-            icon:"fa-solid fa-book"
+            icon:"fa-solid fa-book",
+            href:"https://github.com/mohdsaqib07/smartNotes"
         },
         {
             name:"Mechanical Keyboard Simulator",
-            icon:"fa-regular fa-keyboard"
+            icon:"fa-regular fa-keyboard",
+            href:"https://github.com/mohdsaqib07/Mechanical-Keyboard-Simulator"
         },
     ]
     let benefits = [
