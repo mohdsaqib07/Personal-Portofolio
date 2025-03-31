@@ -39,7 +39,7 @@
             </a>
         </div>
         <div class="relative grid shadow-2xl place-items-center">
-            <img src={"images/newprofile1.png"} alt="mohdsaqib" class="object-cover max-h-[70vh] z-[2]" />
+            <img src={"images/new_image3.png"} alt="mohdsaqib" class="object-cover max-h-[70vh] z-[2]" />
         </div>
     </section>
     
