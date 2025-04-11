@@ -19,7 +19,7 @@
     "vite": "^4.4.2"
   },
   "type": "module",
-  "dependencies": {
-    "node": "^20.12.2"
+  "engines": {
+    "node": "18.x"
   }
 }
